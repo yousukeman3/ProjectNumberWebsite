@@ -1,4 +1,4 @@
-package jp.or.projectnumber.site.controller;
+package jp.or.projectnumber.site.col.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
